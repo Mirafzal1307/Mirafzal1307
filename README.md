@@ -1,11 +1,11 @@
 ### Hi there 👋
-I am a MERN Stack Developer and have 1 year+ of experience in  Development. I have successfully completed a Web development (MERN) Course from Change IT academy. Especially, I love to work in Front-end Development and still learning Programming.
-- 🔭 I’m currently working on "Bektechno" project
-- 🌱 I’m currently learning React.js , Redux, 
-- 🤔 I’m looking for help with Backend and Database
-- 💬 Ask me about Frontend
-- 📫 How to reach me:  [Telegram](https://t.me/UMirafzal)
-- 😄 Pronouns: He/his
+<i>I am a MERN Stack Developer and have 1 year+ of experience in  Development. I have successfully completed a Web development (MERN) Course from Change IT academy. Especially, I love to work in Front-end Development and still learning Programming.</i>
+<h3>- 🔭 I’m currently working on "Bektechno" project</h3>
+<h3>- 🌱 I’m currently learning React.js , Redux, </h3>
+<h3>- 🤔 I’m looking for help with Backend and Database</h3>
+<h3>- 💬 Ask me about Frontend</h3>
+<h3>- 📫 How to reach me:  [Telegram](https://t.me/UMirafzal)</h3>
+<h3>- 😄 Pronouns: He/his</h3>
 
 
 
@@ -18,7 +18,7 @@ I am a MERN Stack Developer and have 1 year+ of experience in  Development. I ha
 <img src="https://github-readme-stats.vercel.app/api?username=mirafzal1307&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" >
 
 
-Skills: HTML 5 / CSS 3 / REACT / JS / GitHub / GitLab
+<h3>Skills: HTML 5 / CSS 3 / REACT / JS / GitHub / GitLab</h3>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mirafzal1307&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)](https://github.com/Mirafzal1307/ReactProject)
 
