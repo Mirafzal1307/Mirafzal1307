@@ -5,7 +5,7 @@
 <h3>- 🤔 I’m looking for help with Backend and Database</h3>
 <h3>- 💬 Ask me about Frontend</h3>
 <h3>- 😄 Pronouns: He/his</h3>
-- 📫 How to reach me:[Telegram](https://t.me/UMMUZAFFAROVICH)
+- 📫 How to reach me: [Telegram](https://t.me/UMMUZAFFAROVICH)
 
 
 
