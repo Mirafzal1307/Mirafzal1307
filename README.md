@@ -18,7 +18,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=mirafzal1307&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" >
 
 
-<h3>Skills: HTML 5 / CSS 3 / REACT / JS / GitHub / GitLab</h3>
+<h3>Skills: HTML 5 / CSS 3 / REACT / Javascript/ Rudux / Vue.js / Nuxt.js /Typescript / GitHub / GitLab</h3>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mirafzal1307&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)](https://github.com/Mirafzal1307/ReactProject)
 
