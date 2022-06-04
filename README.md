@@ -1,6 +1,6 @@
 ### Hi there 👋
 <i>I am a MERN Stack Developer and have 1 year+ of experience in  Development. I have successfully completed a Web development (MERN) Course from Change IT academy. Especially, I love to work in Front-end Development and still learning Programming.</i>
-<h3>- 🔭 I’m currently working on "Bektechno" project</h3>
+<h3>- 🔭 I’m currently working on "OlmaliqSavdo" project</h3>
 <h3>- 🌱 I’m currently learning Vue.js, Nuxt.js, </h3>
 <h3>- 🤔 I’m looking for help with Backend and Database</h3>
 <h3>- 💬 Ask me about Frontend</h3>
