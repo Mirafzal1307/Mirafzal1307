@@ -6,7 +6,6 @@ With a background in JavaScript and experience in Vue.js and React.js, Mirafzal 
 As a dedicated professional and skilled programmer, Mirafzal is sure to make a positive impact on any team he joins. Be sure to contact him and stay tuned for his future projects!</i>
 <h3>- 🔭 I’m currently working on the "77.uz" project</h3>
 <h3>- 🌱 I’m currently learning Vue.js, Nuxt.js, </h3>
-<h3>- 🤔 I’m looking for help with Backend and Database</h3>
 <h3>- 💬 Ask me about Frontend</h3>
 <h3>- 😄 Pronouns: He/his</h3>
 <h3> -📫 How to reach me:https://www.linkedin.com/in/mirafzal-usmonjonov-752138227/</h3>
